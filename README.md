@@ -1,1 +1,1 @@
-task0
+it's a repo of terminal command
